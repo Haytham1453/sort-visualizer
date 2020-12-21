@@ -3,4 +3,4 @@ Aplikasi visualisasi Bubble Sort dan Insert Sort untuk memenuhi tugas besar mata
 
 Aplikasi ini adalah aplikasi untuk melihat visualisasi dari Bubble Sort dan Insert Sort, user dapat menentukan ukuran array, kecepatan sorting, serta min. dan max. value.
 
-Jalankan aplikasi dengan me-run program sortingAlgorithmVisualizer.py
+Jalankan aplikasi dengan me-run program sortingAlgorithmVisualizer.py atau dengan menjalankan file sortingAlgoithmVisualizer.exe di folder dist
